@@ -63,3 +63,10 @@ total=0
 for price in prices:
     total +=price
     print(f"total:{total}")
+
+
+name='raviraj'
+surname='panchal'
+print(name + surname)
+
+
